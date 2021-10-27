@@ -1,7 +1,7 @@
 <builds>
 <build>
 <name>Skinshortcuts Menu</name>
-<version>1.0</version>
+<version>1.1</version>
 <url>https://github.com/TechNEWSologyBuilds/Uploader/raw/main/skinshortcuts.zip</url>
 <icon></icon>
 <fanart></fanart>
